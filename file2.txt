@@ -1,1 +1,0 @@
-this is the sample second text file and we are changing the file to see the changes in the git..changed to see the what changed in the file.
