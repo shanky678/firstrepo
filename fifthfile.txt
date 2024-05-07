@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testing the commit with diff...
+=======
+testing the commit with different but unable to understand.
+>>>>>>> slave
